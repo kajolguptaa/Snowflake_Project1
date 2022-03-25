@@ -8,20 +8,20 @@ The dataset used for this project has been taken from Superstore Dataset which c
 
 STEPS INVOLVED
 
-Creation of database
+1.Creation of database
 
-Creation of schemas
+2.Creation of schemas
 
-Creation of table as per dataset
+3.Creation of table as per dataset
 
-Creation of Integration Object
+4.Creation of Integration Object
 
-Creation of external stage for loading the data structure
+5.Creation of external stage for loading the data structure
 
-Creation of snowpipe for autoingesting of data from S3 bucket
+6.Creation of snowpipe for autoingesting of data from S3 bucket
 
-Creation of stream on the given table
+7.Creation of stream on the given table
 
-SCD 2 operation on the consumer table
+8.SCD 2 operation on the consumer table
 
 Note:- This is the unit test report through which we done this snowflake project with the suitable steps and also do the data analysis on it.
